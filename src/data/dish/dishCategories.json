@@ -1,0 +1,62 @@
+[
+	{
+		"name": "Food",
+		"description": "",
+		"parent": "",
+		"slug": "food"
+	},
+	{
+		"name": "Drinks",
+		"description": "",
+		"parent": "",
+		"slug": "drinks"
+	},
+	{
+		"name": "Morning A",
+		"description": "Random breakfast test section.",
+		"parent": "food",
+		"slug": "morning-a"
+	},
+	{
+		"name": "Soup Zone",
+		"description": "Random soup test section.",
+		"parent": "food",
+		"slug": "soup-zone"
+	},
+	{
+		"name": "Big Plates",
+		"description": "Random mains test section with many rows.",
+		"parent": "food",
+		"slug": "big-plates"
+	},
+	{
+		"name": "Small Stuff",
+		"description": "Random snack test section.",
+		"parent": "food",
+		"slug": "small-stuff"
+	},
+	{
+		"name": "Dessert Box",
+		"description": "Random sweet test section.",
+		"parent": "food",
+		"slug": "dessert-box"
+	},
+	{
+		"name": "Coffee Row",
+		"description": "Random coffee test section.",
+		"parent": "drinks",
+		"slug": "coffee-row"
+	},
+	{
+		"name": "Cold Drinks",
+		"description": "Random cold drink test section.",
+		"parent": "drinks",
+		"slug": "cold-drinks"
+	},
+	{
+		"name": "Odd Tea",
+		"description": "Random tea test section.",
+		"parent": "drinks",
+		"slug": "odd-tea"
+	}
+]
